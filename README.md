@@ -19,14 +19,14 @@ konfiguroitaan muokkaamalla configuring.txt tiedostoa.
 
 ## Asennusohje
 
-Tämän pelin käyttöön tarvitset vain PyQt6 ja Python tulkin.
+Tämän pelin käyttöön tarvitset vain PyQt6 ja Python tulkin (sekä mieluiten PyCharmin)
 
 
 
 ## Käyttöohje
 
 Ohjelmaa ajetaan PyCharmissa game-kansiossa olevan main.py tiedoston avulla.
-PyCharmin ulkopuolella peliä voi ajaa main2.py funktiolla joka on suoraan projektikansiossa.
+PyCharmin ulkopuolella peliä voi ajaa main2.py funktiolla joka on suoraan projektikansiossa, mutta tämän kanssa on ollut hankaluuksia.
 
 Ohjelmaa ajettaessa sinun tulee valita, että aloitatko vai jatkatko peliä. Peliä aloittaessa annat
 ohjelmalle nimesi sekä pelin kartan leveyden ja pituuden, jonka jälkeen ohjelma generoi kartan ja aloitushahmot
