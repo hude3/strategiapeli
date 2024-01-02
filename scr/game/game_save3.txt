@@ -1,0 +1,47 @@
+STRAT Savefile 1
+
+#Game info
+
+Turns played: 3
+Map size: 5x5
+
+#Players
+
+Player: otto : 0
+AI money: 2
+
+#Tiles
+p,0,0
+p,0,1
+f,0,2
+f,0,3
+w,0,4
+w,1,0
+h,1,1
+h,1,2
+p,1,3
+p,1,4
+h,2,0
+f,2,1
+w,2,2
+h,2,3
+p,2,4
+p,3,0
+p,3,1
+f,3,2
+p,3,3
+p,3,4
+p,4,0
+w,4,1
+m,4,2
+p,4,3
+p,4,4
+
+#Cities
+p,0,0,100
+a,4,4,100
+
+#Units
+p,ar,70,1,1
+
+#END

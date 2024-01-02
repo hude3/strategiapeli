@@ -1,0 +1,82 @@
+STRAT Configure
+
+This is a configuring file for the game. You can change almost any value regarding the game here.
+You need to keep the order as it was.
+
+#Game Options
+
+player color(rgb): 255,0,0
+ai color(rgb): 0,100,255
+
+
+
+#Unit Options
+
+Swordsman
+
+name: Swordsman
+max hp: 150
+combat strength: 15
+range: 1
+speed: 2
+cost:
+
+
+Archer
+
+name: Archer
+max hp: 70
+combat strength: 10
+range: 2
+speed: 2
+cost: 2
+
+
+Knight
+
+name: Knight
+max hp: 100
+combat strength: 10
+range: 1
+speed: 3
+cost: 3
+
+
+Settler
+
+name: Settler
+speed: 2
+cost: 5
+
+
+
+#Tile Options
+
+Forest
+
+defence multiplier: 1
+color(rgb): 22, 144, 62
+amount: 20
+
+Hills
+
+defence multiplier: 1.25
+color(rgb): 138, 138, 138
+amount: 15
+
+Mountain
+
+color(rgb): 75, 75, 75
+amount: 5
+
+Water
+
+color(rgb): 8,71,245
+amount: 10
+
+
+Plains
+
+defence multiplier: 1
+color(rgb): 171, 255, 178
+amount: 50
